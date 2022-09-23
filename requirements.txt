@@ -18,7 +18,7 @@ Markdown==3.0.1
 networkx==2.2
 numpy==1.15.4
 Pillow==5.3.0
-protobuf==3.6.1
+protobuf==3.18.3
 PyWavelets==1.0.1
 PyYAML==3.13
 qrcode==6.0
